@@ -15,4 +15,4 @@
 LinkedIn: [https://www.linkedin.com/in/harshit-maheshwari01/](https://www.linkedin.com/in/harshit-maheshwari01/) </br>
 Medium: [https://harshit-maheshwari.medium.com](https://harshit-maheshwari.medium.com) </br>
 
-<i>Note: Please do not spam on the above mentioned profiles.</i>
+<i>**Note:** Please **do not spam** on the above mentioned profiles.</i>

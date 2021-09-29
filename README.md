@@ -4,7 +4,7 @@
 - 🔭 I’m currently pursuing masters in **Data Science** from the **University of Bristol** 
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate in Data Science and Machine Learning domains.
-- 🤔 I’m looking for full time opportunity in **Machine Learning** or **Data Science** or **Program Management**.
+- 🤔 I’m looking for full time opportunity in **Machine Learning** or **Data Science** or **Product Management**.
 - 🖋️ I'm actively writing blogs on [Medium](https://harshit-maheshwari.medium.com).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-maheshwari01/)
 - 😄 Pronouns: he/him

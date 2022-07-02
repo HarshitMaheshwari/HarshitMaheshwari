@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Harshit
 
 
-- 🔭 I’m currently pursuing masters in **Data Science** from the **University of Bristol** 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently pursuing engineer's degree in **Advanced Machine learning and Artificial Intelligence** from the **Imperial College London** 
+- 🌱 I’m currently learning **React** and **Solidity**
 - 👯 I’m looking to collaborate in Data Science and Machine Learning domains.
 - 🤔 I’m looking for full time opportunity in **Machine Learning** or **Data Science** or **Product Management**.
 - 🖋️ I'm actively writing blogs on [Medium](https://harshit-maheshwari.medium.com).
